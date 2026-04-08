@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Portfolio of Bharathi S",
+  "scripts": {
+    "dev": "npx live-server"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
