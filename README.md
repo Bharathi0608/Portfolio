@@ -46,7 +46,6 @@ Check out the live version here: [https://portfolio-bharathi-six-6.vercel.app/]
    ```bash
    npm run dev
    ```
-The site will be hosted at `http://localhost:8080` (or the next available port).
 
 ## 📄 License
 This project is for personal use as a professional portfolio.
