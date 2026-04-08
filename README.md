@@ -3,7 +3,7 @@
 A premium, high-performance portfolio website built for a Full Stack Developer. This project features advanced CSS animations, an interactive particle background, 3D tilt effects, and a responsive design tailored for recruiters.
 
 ## 🚀 Live Demo
-Check out the live version here: [Link coming soon]
+Check out the live version here: [https://portfolio-bharathi-six-6.vercel.app/]
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, Vanilla CSS, JavaScript (ES6+)
