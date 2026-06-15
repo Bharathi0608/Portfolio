@@ -1,0 +1,64 @@
+BHARATHI S
+bharathishankrappa@gmail.com
+ 
++91 6360440679
+ 
+linkedin.com/in/bharathi04
+ 
+github.com/Bharathi0608
+ 
+Internship
+Full Stack Developer Intern, Spherenex (Nexspyder Technologies Pvt Ltd)
+•Engaged in hands-on development of scalable applications using Python & 
+React.js.
+Feb 2026 – Present
+Bengaluru
+•Applying theoretical knowledge to real-world projects and structured development 
+modules.
+• Designing and integrating REST APIs to enable seamless data flow Actively 
+involved in feature development, testing, and optimization.
+Education
+B.E in Computer Science, Jain College of Engineering and Research Belagavi
+CGPA: 8.3
+2022 – Present
+Secondary Education / PUC, Govt Pre University College Anavatti
+Percentage: 83.3
+2020 – 2022
+10th / SSLC, Karnataka Public School Anavatti
+Percentage: 79.8
+2019 – 2020
+Technical Skills
+Programming Languages
+Java, JavaScript, Python(Basic)
+Backend
+Node.js, Express.js, RESTful APIs
+Core Concepts
+Data Structures and Algorithms
+Soft Skills
+Problem-Solving, Leadership, Teamwork, 
+Communication
+Frontend
+HTML, CSS, React.js
+Databases
+MongoDB, Firebase
+Tools
+VS Code, Git, GitHub
+Projects
+QuizForge - Full-Stack Tech Interview Preparation Platform
+•Developed a full-stack quiz platform using React, Node.js, Express.js, and MongoDB with features like quiz 
+filtering, real-time scoring, and leaderboards.
+•Built and integrated RESTful APIs for quiz management and user data handling with secure backend logic. 
+•Demo link: https://quizforge-app-bddn.onrender.com/ 
+Movie Discovery Web Application
+•Developed a Netflix-style movie discovery platform using React and Vite with dynamic routing.
+•Integrated TMDB API to fetch real-time movie data including trailers, cast, and recommendations. 
+Implemented Google authentication and favorites management using Firebase.
+•Demo link: https://moviediscovery-app.vercel.app/ 
+Fake Product Detection Using Blockchain
+•Developed a decentralized fake product detection system using Solidity and Ganache. 
+•Designed smart contracts for product verification and QR-based validation. Improved supply-chain 
+transparency and tamper-proof authentication using blockchain.
+Certificates
+•Participated in a National Level 24-• hour Hackathon “CODEFIESTA-5.0” at Lakshmeshwar, India
+•Successfully completed Java and Data Structures and Algorithms certification from Apna College.
+•Presented a project at the State Level Project Competition, Bengaluru, India.
